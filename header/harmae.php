@@ -54,7 +54,7 @@
   $(document).ready(function(){
 	  $('.backgroundTransition').backgroundTransition({
 		  backgrounds:[
-			  { src: 'http://www.blueb.co.kr/SRC2/_image/01.jpg' },
+			  { src: '../img/mainview.jpg' },
 			  { src: 'http://www.blueb.co.kr/SRC2/_image/03.jpg' },
 			  { src: 'http://www.blueb.co.kr/SRC2/_image/04.jpg' },
 			  { src: 'http://www.blueb.co.kr/SRC2/_image/05.jpg' },
