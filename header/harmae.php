@@ -491,7 +491,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">오시는길</h2>
-                    <h3 class="section-subheading text-muted">Bucket Studio</h3>
+                    <h3 class="section-subheading text-muted">text</h3>
                 </div>
                 <!-- * * * * * * * * * * * * * * *-->
                 <!-- * * SB Forms Contact Form * *-->
@@ -813,7 +813,7 @@
 <script>
 var mapContainer = document.getElementById('map'), // 지도의 중심좌표
     mapOption = { 
-        center: new kakao.maps.LatLng(33.451475, 126.570528), // 지도의 중심좌표
+        center: new kakao.maps.LatLng(37.54015 , 127.17227), // 지도의 중심좌표
         level: 3 // 지도의 확대 레벨
     }; 
 
@@ -822,7 +822,7 @@ var map = new kakao.maps.Map(mapContainer, mapOption); // 지도를 생성합니
 // 지도에 마커를 표시합니다 
 var marker = new kakao.maps.Marker({
     map: map, 
-    position: new kakao.maps.LatLng(33.450701, 126.570667)
+    position: new kakao.maps.LatLng(37.53987 , 127.17227)
 });
 
 // 커스텀 오버레이에 표시할 컨텐츠 입니다
@@ -831,17 +831,17 @@ var marker = new kakao.maps.Marker({
 var content = '<div class="wrap">' + 
             '    <div class="info">' + 
             '        <div class="title">' + 
-            '            카카오 스페이스닷원' + 
+            '            현풍할매집한우' + 
             '            <div class="close" onclick="closeOverlay()" title="닫기"></div>' + 
             '        </div>' + 
             '        <div class="body">' + 
             '            <div class="img">' +
-            '                <img src="https://cfile181.uf.daum.net/image/250649365602043421936D" width="73" height="70">' +
+            '                <img src="https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220316_120%2F1647433966146GiLaN_JPEG%2F2D795A45-6657-4555-B902-14E41AFF429A.jpeg" width="73" height="70">' +
             '           </div>' + 
             '            <div class="desc">' + 
-            '                <div class="ellipsis">제주특별자치도 제주시 첨단로 242</div>' + 
-            '                <div class="jibun ellipsis">(우) 63309 (지번) 영평동 2181</div>' + 
-            '                <div><a href="https://www.kakaocorp.com/main" target="_blank" class="link">홈페이지</a></div>' + 
+            '                <div class="ellipsis">하남시 초이로92번길 41-8 1층, 2층</div>' + 
+            '                <div class="jibun ellipsis">(우) 12986 (지번)경기 하남시 초이동 244-5</div>' + 
+            '                <div><a href="http://naver.me/xZ9dA2yL" target="_blank" class="link">네이버지도로보기</a></div>' + 
             '            </div>' + 
             '        </div>' + 
             '    </div>' +    
