@@ -10,6 +10,7 @@
 
 
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=b842ce4d518f04233b655cc29d8ff6b7"></script>
+
 <script>
 var mapContainer = document.getElementById('map'), // 지도를 표시할 div
     mapOption = {
