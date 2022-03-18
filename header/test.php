@@ -1,3 +1,3 @@
 <?php 
-echo "정인환ㅅㅂfffggggggggggggggggggggggggggggggggggggggggggf";
+echo  date("H:i:s");
 ?>
