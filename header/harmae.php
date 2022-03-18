@@ -17,7 +17,7 @@
         <link href="../css/styles.css" rel="stylesheet" />
 		<!-- background CSS (includes Bootstrap)-->
 		<!-- slide CSS (includes Bootstrap)-->
-        <!--aaaaaaaaaaaaaaaaaaaaaaaaaa-->
+        <!--bbbbbbbbbbbbbbbbbbbb->
     </head>
     <body id="page-top">
         <!-- Navigation-->
