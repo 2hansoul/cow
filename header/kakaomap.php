@@ -19,7 +19,7 @@ var mapContainer = document.getElementById('map'), // 지도를 표시할 div
     };
 
 var map = new kakao.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
-
+aa
 // 마커를 표시할 위치입니다
 var position =  new kakao.maps.LatLng(37.53987 , 127.17227);
 
