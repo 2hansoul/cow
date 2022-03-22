@@ -7,7 +7,7 @@
         <meta name="author" content="" />
         <title>hansol test</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="../test/assets/img/.jpg" />
+        <link rel="icon" type="image/x-icon" href="../img/assets/img/.jpg" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -23,7 +23,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" >
             <div class="container">
-               <!-- <a class="navbar-brand" href="#page-top"><img src="../test/assets/img/bucket-header.JPG" alt="..." /></a>-->
+               <!-- <a class="navbar-brand" href="#page-top"><img src="../img/assets/img/bucket-header.JPG" alt="..." /></a>-->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
@@ -48,7 +48,7 @@
             </div>
         </header>
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script type="text/javascript" src="../test/jsfile/backgroundTransition.js"></script>
+<script type="text/javascript" src="../img/jsfile/backgroundTransition.js"></script>
 
 <script type="text/javascript">
   $(document).ready(function(){
@@ -200,7 +200,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../test/assets/img/portfolio/1.jpg" alt="..." />
+                                <img class="img-fluid" src="../img/assets/img/portfolio/20220319_183954.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Digital Biz</div>
@@ -215,7 +215,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid"  src="../test/assets/img/portfolio/2.jpg" alt="..." />
+                                <img class="img-fluid"  src="../img/assets/img/portfolio/2.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Contents Distribution</div>
@@ -230,7 +230,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../test/assets/img/portfolio/3.jpg" alt="..." />
+                                <img class="img-fluid" src="../img/assets/img/portfolio/3.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">IP Protection</div>
@@ -245,7 +245,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../test/assets/img/portfolio/4.jpg" alt="..." />
+                                <img class="img-fluid" src="../img/assets/img/portfolio/4.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">CONTENTS 4</div>
@@ -260,7 +260,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../test/assets/img/portfolio/5.jpg" alt="..." />
+                                <img class="img-fluid" src="../img/assets/img/portfolio/5.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">CONTENTS 5</div>
@@ -275,7 +275,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../test/assets/img/portfolio/6.jpg" alt="..." />
+                                <img class="img-fluid" src="../img/assets/img/portfolio/6.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">CONTENTS 6</div>
@@ -297,7 +297,7 @@
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../test/assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../img/assets/img/about/1.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="subheading">콘텐츠 필터링 기술이란 ?</h4>
@@ -310,7 +310,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../test/assets/img/about/2.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../img/assets/img/about/2.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="subheading">불법음란정보 유통 방지</h4>
@@ -321,7 +321,7 @@
                         </div>
                     </li>
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../test/assets/img/about/3.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../img/assets/img/about/3.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4></h4>
@@ -333,7 +333,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../test/assets/img/about/4.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../img/assets/img/about/4.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>July 2020</h4>
@@ -366,7 +366,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="../test/assets/img/team/1.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="../img/assets/img/team/1.jpg" alt="..." />
                             <h4>Parveen Anand</h4>
                             <p class="text-muted">Lead Designer</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
@@ -376,7 +376,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="../test/assets/img/team/2.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="../img/assets/img/team/2.jpg" alt="..." />
                             <h4>Diana Petersen</h4>
                             <p class="text-muted">Lead Marketer</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
@@ -386,7 +386,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="../test/assets/img/team/3.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="../img/assets/img/team/3.jpg" alt="..." />
                             <h4>Larry Parker</h4>
                             <p class="text-muted">Lead Developer</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
@@ -414,10 +414,10 @@
 							<a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="https://newsimg.sedaily.com/2021/03/19/22JV9J2JYL_1.jpg" alt="..." /></a>
 						</div>
 						<div class="col-md-3" id="slide4" >
-							<a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="../test/assets/img/hansol.png"  alt="..." /></a>
+							<a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="../img/assets/img/hansol.png"  alt="..." /></a>
 						</div>
 						<div class="col-md-3" id="slide5" style="display:none">
-							<a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="../test/assets/img/hansol.png"  alt="..." /></a>
+							<a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="../img/assets/img/hansol.png"  alt="..." /></a>
 						</div>
 				</div>
 			</div>
@@ -529,7 +529,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-4 my-3 my-lg-0">
-                      <div class="timeline-image"><img class="rounded-circle img-fluid" src="../test/assets/img/bucket-logo.JPG" alt="..." />
+                      <div class="timeline-image"><img class="rounded-circle img-fluid" src="../img/assets/img/bucket-logo.JPG" alt="..." />
 					  </div>
                     </div>
                     <div class="col-lg-4 ">
@@ -548,7 +548,7 @@
         <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="../test/assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../img/assets/img/close-icon.svg" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -556,7 +556,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../test/assets/img/portfolio/1.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../img/assets/img/portfolio/1.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -583,7 +583,7 @@
         <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="../test/assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../img/assets/img/close-icon.svg" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -591,7 +591,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../test/assets/img/portfolio/2.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../img/assets/img/portfolio/2.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -618,7 +618,7 @@
         <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="../test/assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../img/assets/img/close-icon.svg" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -626,7 +626,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../test/assets/img/portfolio/3.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../img/assets/img/portfolio/3.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -653,7 +653,7 @@
         <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="../test/assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../img/assets/img/close-icon.svg" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -661,7 +661,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../test/assets/img/portfolio/4.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../img/assets/img/portfolio/4.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -688,7 +688,7 @@
         <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="../test/assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../img/assets/img/close-icon.svg" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -696,7 +696,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../test/assets/img/portfolio/5.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../img/assets/img/portfolio/5.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -723,7 +723,7 @@
         <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="../test/assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="../img/assets/img/close-icon.svg" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -731,7 +731,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../test/assets/img/portfolio/6.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../img/assets/img/portfolio/6.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -869,11 +869,11 @@ function closeOverlay() {
 <!------------------------------------kakaomap------------------------------------------------------->
 <!--  미디어배경화면
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="../test/jsfile/vidbg.js"></script>
+<script src="../img/jsfile/vidbg.js"></script>
 	<script>
     jQuery(function($){
           $('header').vidbg({
-				'mp4': '../test/media/mp4_video.mp4',
+				'mp4': '../img/media/mp4_video.mp4',
 
           }, {
             // Options
