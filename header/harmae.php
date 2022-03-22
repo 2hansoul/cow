@@ -30,7 +30,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#services">Bucket Stuadio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#services">메뉴</a></li>
                         <li class="nav-item"><a class="nav-link" href="#portfolio">Contents Introduction</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">IP Protection</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">IR</a></li>
@@ -44,7 +44,7 @@
             <div class="">
                 <div class="masthead-subheading"></div>
                 <div class="masthead-heading text-uppercase">hansol</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services" style="margin-top:100px">Tell Me More</a>
+                <a class="btn btn-primary btn-xl text-uppercase" href="#services" style="margin-top: 752px;margin-left: 848px;">Tell Me More</a>
             </div>
         </header>
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -153,8 +153,8 @@
         <section class="page-section" id="services">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Bucket Studio </h2>
-                    <h3 class="section-subheading text-muted" id="Binggrae_font">(주)버킷스튜디오는 10년 이상의 콘텐츠 제작 및 유통 비지니스 노하우와 온라인/모바일 영역을 아우르는 기술력을 보유한 새로운 개념의 미디어 기업입니다.</h3>
+                    <h2 class="section-heading text-uppercase">text</h2>
+                    <h3 class="section-subheading text-muted" id="Binggrae_font">use</h3>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
@@ -805,9 +805,8 @@
 	});
 </script>
 <!------------------------------------kakaomap------------------------------------------------------->
-
 <body>
-<div id="map" style="width:100%;height:350px;"></div>
+<div id="map" style="width:100%"></div>
 
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=b842ce4d518f04233b655cc29d8ff6b7"></script>
 <script>
