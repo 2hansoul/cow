@@ -30,8 +30,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#services">메뉴</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Contents Introduction</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#services">소개</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">ap</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">IP Protection</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">IR</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
@@ -44,28 +44,12 @@
             <div class="">
                 <div class="masthead-subheading"></div>
                 <div class="masthead-heading text-uppercase">hansol</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services" style="margin-top: 752px;margin-left: 848px;">Tell Me More</a>
+                <a class="btn btn-primary btn-xl text-uppercase" href="#services" style="margin-top:100px">Tell Me More</a>
+                
             </div>
+            <img class="img-fluid" src="../img/assets/img/portfolio/20220319_184231.jpg" alt="..." />
         </header>
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script type="text/javascript" src="../img/jsfile/backgroundTransition.js"></script>
-
-<script type="text/javascript">
-  $(document).ready(function(){
-	  $('.backgroundTransition').backgroundTransition({
-		  backgrounds:[
-			  { src: '../img/mainview.jpg' },
-			  { src: 'http://www.blueb.co.kr/SRC2/_image/03.jpg' },
-			  { src: 'http://www.blueb.co.kr/SRC2/_image/04.jpg' },
-			  { src: 'http://www.blueb.co.kr/SRC2/_image/05.jpg' },
-			  { src: 'http://www.blueb.co.kr/SRC2/_image/06.jpg' },
-			  { src: 'http://www.blueb.co.kr/SRC2/_image/07.jpg' }
-		  ],
-		  transitionDelay: 1,
-		  animationSpeed: 500
-	  });
-  });
-</script>
 <script>
 /*
  * Simple jQuery plugin to synchronously load and then transition (fade-in/out) a list of images as full screen background-images on a web page.
@@ -153,8 +137,8 @@
         <section class="page-section" id="services">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">text</h2>
-                    <h3 class="section-subheading text-muted" id="Binggrae_font">use</h3>
+                    <h2 class="section-heading text-uppercase"> text</h2>
+                    <h3 class="section-subheading text-muted" id="Binggrae_font">(</h3>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
@@ -189,8 +173,8 @@
         <section class="" id="portfolio">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Contents Introduction</h2>
-                    <h3 class="section-subheading text-muted">밑에 사진 파일만 구하면 괜찮게 될 것 같은데 쓸만한 사진파일만 찾으면 될 것 같음</h3>
+                    <h2 class="section-heading text-uppercase">메뉴 소개</h2>
+                    <h3 class="section-subheading text-muted">&nbsp</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
@@ -200,7 +184,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../img/assets/img/portfolio/20220319_183954.jpg" alt="..." />
+                                <img class="img-fluid" src="../img/assets/img/portfolio/20220319_184231.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Digital Biz</div>
@@ -400,28 +384,6 @@
                 </div>
             </div>
         </section>
-        <!-- Clients-->
-        <div class="py-5">
-            <div class="container">
-                <div class="row align-items" id="slide">
-						<div class="col-md-3" id="slide1">
-						   <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="https://img.hankyung.com/photo/202107/01.26850590.1.jpg" alt="..." /></a>
-						</div>
-						<div class="col-md-3" id="slide2">
-						  <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="https://img.hankyung.com/photo/202108/01.27064669.1.jpg" alt="..." /></a>
-						</div>
-						<div class="col-md-3" id="slide3">
-							<a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="https://newsimg.sedaily.com/2021/03/19/22JV9J2JYL_1.jpg" alt="..." /></a>
-						</div>
-						<div class="col-md-3" id="slide4" >
-							<a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="../img/assets/img/hansol.png"  alt="..." /></a>
-						</div>
-						<div class="col-md-3" id="slide5" style="display:none">
-							<a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="../img/assets/img/hansol.png"  alt="..." /></a>
-						</div>
-				</div>
-			</div>
-		</div>
 		<!-- 이거 슬라이드 인데 무한루프 내가 원하는거 아님
 		<script>
 			var slideIndex = 0;
@@ -446,44 +408,6 @@
 					setTimeout(showSlides, 500); // Change image every 2 seconds
 				}
 		</script>-->
-
-	  <script>
-
-		var ul = document.querySelector('#slide1');
-		var ul2 = document.querySelector('#slide2');
-		var ul3 = document.querySelector('#slide3');
-		var ul4 = document.querySelector('#slide4');
-		var ul5 = document.querySelector('#slide5');
-		var ul6 = document.querySelector('#slide6');
-        var i ;
-        function move(){
-            var curIndex = 0;
-            setInterval(function(){
-					ul.style.transition = '0.2s';
-					ul.style.transform = "translate3d(-"+200*(curIndex+1)+"px, 0px, 0px)";
-					ul2.style.transition = '0.4s';
-					ul2.style.transform = "translate3d(-"+200*(curIndex+1)+"px, 0px, 0px)";
-					ul3.style.transition = '0.6s';
-					ul3.style.transform = "translate3d(-"+200*(curIndex+1)+"px, 0px, 0px)";
-					ul4.style.transition = '0.8s';
-					ul4.style.transform = "translate3d(-"+200*(curIndex+1)+"px, 0px, 0px)";
-					ul5.style.transition = '0.8s';
-					ul5.style.transform = "translate3d(-"+200*(curIndex+1)+"px, 0px, 0px)";
-					ul5.style.transform = $('#slide5').show();
-                curIndex++;
-
-                if(curIndex === 4){
-					curIndex = -1;
-					 $('#slide5').show();
-                }
-
-            },500);
-        }
-
-        document.addEventListener("DOMContentLoaded",function(){
-            move();
-        });
-    </script>
 
 
         <!-- Contact-->
@@ -805,8 +729,9 @@
 	});
 </script>
 <!------------------------------------kakaomap------------------------------------------------------->
+
 <body>
-<div id="map" style="width:100%"></div>
+<div id="map" style="width:100%;height:350px;"></div>
 
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=b842ce4d518f04233b655cc29d8ff6b7"></script>
 <script>
@@ -869,11 +794,11 @@ function closeOverlay() {
 <!------------------------------------kakaomap------------------------------------------------------->
 <!--  미디어배경화면
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="../img/jsfile/vidbg.js"></script>
+<script src="../js/vidbg.js"></script>
 	<script>
     jQuery(function($){
           $('header').vidbg({
-				'mp4': '../img/media/mp4_video.mp4',
+				'mp4': '../img/assets/img/media/mp4_video.mp4',
 
           }, {
             // Options

@@ -684,6 +684,8 @@ progress {
   margin-top: var(--bs-gutter-y);
 }
 
+
+
 .col {
   flex: 1 0 0%;
 }
@@ -11301,7 +11303,7 @@ p {
 }
 
 .page-section {
-  padding: 2rem 0;
+  padding: 6rem 0;
 }
 .page-section h2.section-heading, .page-section .section-heading.h2 {
   font-size: 2.5rem;
@@ -11405,13 +11407,15 @@ p {
     margin-right: 0;
   }
 }
+
 /*슬라이드 배경화면  *//*슬라이드 배경화면  *//*슬라이드 배경화면  *//*슬라이드 배경화면  *//*슬라이드 배경화면  *//*슬라이드 배경화면  *//*슬라이드 배경화면  */
+@media (min-width: 500px) {
 html, body, .backgroundTransition, .backgroundTransition .image-top, .backgroundTransition .image-bottom {
   height: 100%;
   width: 100%;
-
 }
 
+}
 body { margin: 0; }
 
 body .backgroundTransition {
@@ -11460,6 +11464,8 @@ header.masthead .masthead-heading {
   margin-bottom: 2rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+
 /* new 배경화면 동영상 *//* new 배경화면 동영상 *//* new 배경화면 동영상 *//* new 배경화면 동영상 *//* new 배경화면 동영상 
 header.masthead {
   padding-top: 10.5rem;
@@ -11500,6 +11506,7 @@ header.masthead .masthead-heading {
     margin-bottom: 4rem;
   }
 }
+
 #portfolio .portfolio-item {
   max-width: 26rem;
   margin-left: auto;
@@ -11510,6 +11517,7 @@ header.masthead .masthead-heading {
   display: block;
   margin: 0 auto;
 }
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   display: flex;
   position: absolute;
@@ -11521,6 +11529,7 @@ header.masthead .masthead-heading {
   opacity: 0;
   transition: opacity ease-in-out 0.25s;
 }
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
   font-size: 1.25rem;
   color: white;
@@ -11528,6 +11537,7 @@ header.masthead .masthead-heading {
 #portfolio .portfolio-item .portfolio-link:hover .portfolio-hover {
   opacity: 1;
 }
+
 #portfolio .portfolio-item .portfolio-caption {
   padding: 1.5rem;
   text-align: center;
@@ -11549,8 +11559,8 @@ header.masthead .masthead-heading {
   max-width: 100vw;
 }
 .portfolio-modal .modal-content {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 1rem;
   text-align: center;
 }
 .portfolio-modal .modal-content h2, .portfolio-modal .modal-content .h2 {
@@ -11828,6 +11838,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+
+
 /*------------------------------kakaomap-----------------------------------------------------------------------*/
 .wrap {position: absolute;left: 0;bottom: 40px;width: 288px;height: 132px;margin-left: -144px;text-align: left;overflow: hidden;font-size: 12px;font-family: 'Malgun Gothic', dotum, '돋움', sans-serif;line-height: 1.5;}
 .wrap * {padding: 0;margin: 0;}
