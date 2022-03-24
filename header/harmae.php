@@ -31,23 +31,25 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#services">소개</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">ap</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#about">IP Protection</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">메뉴</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about"></a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">IR</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">오시는길</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
         <!-- Masthead-->
         <header class="backgroundTransition" id="header_slide">
-            <div class="">
-                <div class="masthead-subheading"></div>
-                <div class="masthead-heading text-uppercase">hansol</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services" style="margin-top:100px">Tell Me More</a>
-                
+        
+        <header class="masthead">
+            <div class="container">
+                <div class="masthead-subheading">Welcome To Our Studio!</div>
+                <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
+                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
-            <img class="img-fluid" src="../img/assets/img/portfolio/20220319_184231.jpg" alt="..." />
+        </header>
+        
         </header>
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script>
