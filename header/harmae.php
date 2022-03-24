@@ -7,7 +7,7 @@
         <meta name="author" content="" />
         <title>hansol test</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="../img/assets/img/.jpg" />
+        <link rel="icon" type="image/x-icon" href="../img/assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -15,15 +15,12 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="../css/styles.css" rel="stylesheet" />
-		<!-- background CSS (includes Bootstrap)-->
-		<!-- slide CSS (includes Bootstrap)-->
-        <!--afafafafaf->
     </head>
     <body id="page-top">
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" >
             <div class="container">
-               <!-- <a class="navbar-brand" href="#page-top"><img src="../img/assets/img/bucket-header.JPG" alt="..." /></a>-->
+                <a class="navbar-brand" href="#page-top">TOP</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
@@ -40,132 +37,43 @@
             </div>
         </nav>
         <!-- Masthead-->
-        <header class="backgroundTransition" id="header_slide">
-        
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">Welcome To Our Studio!</div>
-                <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
+                <div class="masthead-subheading">Welcome To</div>
+                <div class="masthead-heading text-uppercase">enjoying</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
         </header>
-        
-        </header>
-<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script>
-/*
- * Simple jQuery plugin to synchronously load and then transition (fade-in/out) a list of images as full screen background-images on a web page.
- * Author: Matt Richards, http://github.com/mattyrichards
- * Licensed under the MIT license
- */
-;(function( $, window, document, undefined ){
-
-    var BackgroundTransition = function( elem, options ){
-        this.elem = elem;
-        this.$elem = $(elem);
-        this.options = options;
-        self = this;
-    };
-
-    BackgroundTransition.prototype = {
-        defaults: {
-            classNameBottomImage: "image-bottom",
-            classNameTopImage: "image-top",
-            idNameDownloadImage: "image-download",
-            backgrounds: [],
-            imageKey: 1,
-            transitionDelay: 10,
-            animationSpeed: 1000
-        },
-
-        init: function() {
-            this.config = $.extend({}, this.defaults, this.options);
-            if (this.config.backgrounds.length >= 2) {
-                this.prepareMarkup();
-                this.loadNext();
-                return this;
-            } else {
-                console.warn('BackgroundTransition requires at least 2 background images.')
-                return false;
-            }
-        },
-
-        prepareMarkup: function() {
-            var imageBottom = $("<div/>").addClass(this.config.classNameBottomImage + ' initial').css('background-image', 'url(' + this.config.backgrounds[0].src + ')');
-            var imageTop = $("<div/>").addClass(this.config.classNameTopImage).css('display', 'none');
-            $(this.elem)
-                .prepend(imageBottom, imageTop)
-                .css('background-image', 'none');
-        },
-
-        loadNext: function() {
-            if (this.config.imageKey == this.config.backgrounds.length){
-                this.config.imageKey = 0;
-            }
-            var deferred = $.Deferred();
-            $('<img/>').attr('id', this.config.idNameDownloadImage).load(function() {
-                deferred.resolve();
-            }).attr('src', this.config.backgrounds[this.config.imageKey].src).prependTo('body .backgroundTransition');
-            deferred.done(function() {
-                setTimeout(self.replaceImage, (self.config.transitionDelay * 1000));
-            });
-        },
-
-        replaceImage: function() {
-            var nextSrc = $('#' + self.config.idNameDownloadImage);
-            $('#' + self.config.idNameDownloadImage).remove();
-            $('.' + self.config.classNameTopImage).css('background-image', 'url(' + nextSrc.attr('src') + ')');
-            $('.' + self.config.classNameTopImage).fadeIn(self.config.animationSpeed, 'swing', function() {
-               $('.' + self.config.classNameBottomImage).css('background-image', 'url(' + nextSrc.attr('src') + ')');
-               $(this).hide();
-               self.config.imageKey++;
-               self.loadNext();
-            });
-        }
-    }
-
-    BackgroundTransition.defaults = BackgroundTransition.prototype.defaults;
-
-    $.fn.backgroundTransition = function(options) {
-        return this.each(function() {
-            new BackgroundTransition(this, options).init();
-        });
-    };
-
-})( jQuery, window , document );
-
-</script>
         <!-- Services-->
         <section class="page-section" id="services">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase"> text</h2>
-                    <h3 class="section-subheading text-muted" id="Binggrae_font">(</h3>
+                    <h2 class="section-heading text-uppercase">소개</h2>
+                    <h3 class="section-subheading text-muted" id="Binggrae_font">text</h3>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                          <img arc="../img/assets/img/portfolio/poto1.png">
                         </span>
-                        <h4 class="my-3" id="Binggrae_font">지금 더 가치있는 수익창출</h4>
-                        <p class="text-muted" >Digital Biz</p>
+                        <h4 class="my-3" id="Binggrae_font">넓은 매장(다른거 있으면 적어줘)</h4>
+                        <p class="text-muted"  >1~3층 150가량에 넓은 매장과 단체석도 구비되어 있어 편안하게 식사 하실 수 있습니다 </p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3" id="Binggrae_font">다양한 문화 콘텐츠</h4>
-                        <p class="text-muted" >Contents Distribution</p>
+                        <h4 class="my-3" id="Binggrae_font">가까운 서울근교</h4>
+                        <p class="text-muted" >경기도 하남시 초이로 254-5 번지에 있으며 근처 미사리 조정경기장과 일자산을 가 보실수 있습니다 (더 쓸만한 멘트) </p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3" id="Binggrae_font" >콘텐츠 필터링</h4>
-                        <p class="text-muted" >IP Protection</p>
+                        <h4 class="my-3" id="Binggrae_font" >편리한 주차시설</h4>
+                        <p class="text-muted">넓은 주차시설로 인해 하남쪽 놀러오시면서 뭐라써야할지 모르겟네 </p>
                     </div>
 
                 </div>
@@ -683,6 +591,12 @@
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
         <script>
 		window.addEventListener('DOMContentLoaded', event => {
 
