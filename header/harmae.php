@@ -40,7 +40,7 @@
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Welcome To</div>
-                <div class="masthead-heading text-uppercase">enjoying</div>
+                <div class="masthead-heading text-uppercase">뒤에 배경화면에 쓸만한거</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
         </header>
@@ -54,8 +54,8 @@
                 <div class="row text-center">
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                          <img arc="../img/assets/img/portfolio/poto1.png">
-                        </span>
+                          <img src="../img/assets/img/portfolio/poto1.png" style="width: 78%">
+                      </span>
                         <h4 class="my-3" id="Binggrae_font">넓은 매장(다른거 있으면 적어줘)</h4>
                         <p class="text-muted"  >1~3층 150가량에 넓은 매장과 단체석도 구비되어 있어 편안하게 식사 하실 수 있습니다 </p>
                     </div>
@@ -97,8 +97,8 @@
                                 <img class="img-fluid" src="../img/assets/img/portfolio/20220319_184231.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Digital Biz</div>
-                                <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                                <div class="portfolio-caption-heading">한우등심++</div>
+                                <div class="portfolio-caption-subheading text-muted">400g</div>
                             </div>
                         </div>
                     </div>
@@ -388,23 +388,22 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../img/assets/img/portfolio/1.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">한우등심++</h2>
+                                    <p class="item-intro text-muted">살살 녹는 등심을 즐기고 싶으신 분들께 강추합니다 </p>
+                                    <img class="img-fluid d-block mx-auto" src="../img/assets/img/portfolio/20220319_184231.jpg" alt="..." />
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Threads
+                                            <strong>가격:</strong>
+                                            95,000
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Illustration
+                                            <strong>100g:</strong>
+                                            23,750
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-times me-1"></i>
-                                        Close Project
+                                        Close
                                     </button>
                                 </div>
                             </div>
