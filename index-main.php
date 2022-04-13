@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>천호동횡성한우집(현풍할매)</title>
+        <title>천호동횡성한우집(현풍)</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="../cow/img/assets/LHS.png" />
         <!-- Font Awesome icons (free version)-->
@@ -40,7 +40,7 @@
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Welcome To</div>
-                <div class="masthead-heading text-uppercase">뒤에 배경화면에 쓸만한거</div>
+                <div class="masthead-heading text-uppercase"></div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
         </header>
@@ -57,21 +57,21 @@
                           <img src="../cow/img/assets/img/portfolio/poto1.png" style="width: 78%">
                       </span>
                         <h4 class="my-3" id="Binggrae_font">넓은 매장</h4>
-                        <p class="text-muted"  >1~3층 150가량에 넓은 매장과 단체석도 구비되어 있어 편안하게 식사 하실 수 있습니다 </p>
+                        <p class="text-muted"  >1~3층 150평 가량에 넓은 매장과 단체손님을 위한 단체석도 마련되어있습니다 </p>
                     </div>
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
                             <img src="../cow/img/assets/img/portfolio/map.PNG" style="width: 78%">
                         </span>
                         <h4 class="my-3" id="Binggrae_font">가까운 서울근교</h4>
-                        <p class="text-muted" >경기도 하남시 초이로 254-5 번지에 있으며 근처 미사리 조정경기장과 일자산을 가 보실수 있습니다</p>
+                        <p class="text-muted" >경기도 하남시 초이로 254-5 번지에 있으며 근처 에 미사리 조정경기장과 일자산이 있습니다</p>
                     </div>
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
                             <img src="../cow/img/assets/img/portfolio/parking.png" style="width: 78%">
                         </span>
-                        <h4 class="my-3" id="Binggrae_font" >편리한 주차시설</h4>
-                        <p class="text-muted">넓은 주차시설로 인해 하남쪽 놀러오시면서 뭐라써야할지 모르겟네 </p>
+                        <h4 class="my-3" id="Binggrae_font" >주차시설</h4>
+                        <p class="text-muted">넒은 주차시설을 갖추고 있어 주차걱정 없이 편안하게 식사 하실 수 있습니다</p>
                     </div>
 
                 </div>
@@ -107,11 +107,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid"  src="../cow/img/assets/img/portfolio/2.jpg" alt="..." />
+                                <img class="img-fluid"  src="../cow/img/assets/img/portfolio/cow2.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Contents Distribution</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                                <div class="portfolio-caption-heading">한우2등급</div>
+                                <div class="portfolio-caption-subheading text-muted">400g</div>
                             </div>
                         </div>
                     </div>
@@ -122,11 +122,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../cow/img/assets/img/portfolio/3.jpg" alt="..." />
+                                <img class="img-fluid" src="../cow/img/assets/img/portfolio/cow3.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">IP Protection</div>
-                                <div class="portfolio-caption-subheading text-muted">Identity</div>
+                                <div class="portfolio-caption-heading">한우 갈비살</div>
+                                <div class="portfolio-caption-subheading text-muted">300g</div>
                             </div>
                         </div>
                     </div>
@@ -167,11 +167,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../cow/img/assets/img/portfolio/6.jpg" alt="..." />
+                                <img class="img-fluid" src="../cow/img/assets/img/portfolio/cow6.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">CONTENTS 6</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                <div class="portfolio-caption-heading">한우불고기</div>
+                                <div class="portfolio-caption-subheading text-muted">100g</div>
                             </div>
                         </div>
                     </div>
@@ -179,6 +179,7 @@
             </div>
         </section>
         <!-- About-->
+       
         <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
@@ -248,6 +249,7 @@
                 </ul>
             </div>
         </section>
+        
         <!-- Team-->
         <section class="page-section bg-light" id="team">
             <div class="container">
@@ -387,8 +389,8 @@
                                 <div class="modal-body">
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">한우등심++</h2>
-                                    <p class="item-intro text-muted">살살 녹는 등심을 즐기고 싶으신 분들께 강추합니다 </p>
-                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/20220319_184231.jpg" alt="..." />
+                                    <p class="item-intro text-muted">2++등급 한우 입니다 마장동에서 주마다 직접 고기를 보고 구매를 하고있습니다 정말 맛있습니다 </p>
+                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow1.jpg" alt="..." />
                                     <ul class="list-inline">
                                         <li>
                                             <strong>가격:</strong>
@@ -420,14 +422,14 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/2.jpg" alt="..." />
+                                    <h2 class="text-uppercase">등심 2등급</h2>
+                                    <p class="item-intro text-muted">입에서 살살 녹는 한우를 드시고 싶으시면 </p>
+                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow2.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Explore
+                                            <strong>가격:</strong>
+                                            
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
@@ -455,9 +457,9 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <h2 class="text-uppercase">한우갈비살</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/3.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow3.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
