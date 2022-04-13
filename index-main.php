@@ -6,7 +6,7 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
     <HEAD>
-        <title>초이동 횡성한우 (현풍할매)</title>
+        <title>초이동횡성한우 (현풍할매)</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="../cow/img/assets/LHS.png" />
         <!-- Font Awesome icons (free version)-->
@@ -179,27 +179,23 @@
                 </div>
             </div>
         </section>
+        
         <!-- About-->
-       
         <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase"  id="NotoSansKR-Light">Contents Filtering</h2>
-                    <h3 class="section-subheading text-muted" id="NotoSansKR-Light">저작권보호팀의 콘텐츠 필터링 기술은 한국저작권위원회의 엄격한 기술검정을 통과하여 그 기술력을 인정받았습니다.<br>
-						저작권보호팀은 콘텐츠 제공자(CP, Contents Provider)와 온라인서비스제공자(OSP, Online Service Provider)<br>
-						사이의 중립적인 위치에서 보다 투명한 콘텐츠 유통을 위해 앞장서고 있습니다.</h3>
+                    <h2 class="section-heading text-uppercase"  id="NotoSansKR-Light">Contents </h2>
+                    <h3 class="section-subheading text-muted" id="NotoSansKR-Light"></h3>
                 </div>
                 <ul class="timeline">
                     <li>
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="../cow/img/assets/img/about/1.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="subheading">콘텐츠 필터링 기술이란 ?</h4>
+                                <h4 class="subheading"></h4>
                             </div>
                             <div class="timeline-body">
-								<p class="text-muted" id="">디지털 콘텐츠가 가지고 있는 고유의 특징 정보를 추출해 그 정보
-								를 데이터베이스로 구축하고,이를 기반으로 유통 중인 콘텐츠를 비교, 검색하는 기술입니다.
-								현재 콘텐츠 필터링 기술은 온라인에서 불법 유통 중인 콘텐츠를 차단하여 저작권 콘텐츠를 보호하는데 사용되고 있습니다.</p>
+								<p class="text-muted" id=""></p>
 							</div>
                         </div>
                     </li>
@@ -207,10 +203,10 @@
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="../cow/img/assets/img/about/2.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="subheading">불법음란정보 유통 방지</h4>
+                                <h4 class="subheading"></h4>
                             </div>
                             <div class="timeline-body">
-								<p class="text-muted">방송통신위원회와 방송통신심의위원회에서 제공하는 불법음란정보 데이터를 이용하여 불법음란정보 유통에 관한 온라인서비스제공자(OSP)의 기술적 조치 이행을 지원합니다.</p>
+								<p class="text-muted"></p>
 							</div>
                         </div>
                     </li>
@@ -219,10 +215,10 @@
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4></h4>
-                                <h4 class="subheading">개인 영상 저작권 보호</h4>
+                                <h4 class="subheading"></h4>
                             </div>
                             <div class="timeline-body">
-								<p class="text-muted">개인이 제작한 영상과 디지털 저작물의 영상 인식 기술을 이용한 저작권 보호 사업을 함께 하고 있습니다. 개인 영상 저작물 등록 대행하고 있으며 영구적인 특징정보를 추출하여 영상 콘텐츠를 식별할 수 있도록 영구 디지털화 합니다.</p>
+								<p class="text-muted"></p>
 							</div>
                         </div>
                     </li>
@@ -251,11 +247,11 @@
             </div>
         </section>
         
-        <!-- Team-->
+        <!-- 
         <section class="page-section bg-light" id="team">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">여기다가 뭘 해야할까</h2>
+                    <h2 class="section-heading text-uppercase">here</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
                 <div class="row">
@@ -290,6 +286,7 @@
                         </div>
                     </div>
                 </div>
+                Team-->
                 <div class="row">
                     <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
                 </div>
@@ -368,12 +365,12 @@
 					  </div>
                     </div>
                     <div class="col-lg-4 ">
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:99px;" id="Binggrae_font">서울특별시 강남구 선릉로 803 4층, 5층(신사동)</p>
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:249px;" id="Binggrae_font">T:02-6205-5400</p>
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:27px;"id="Binggrae_font">영상콘텐츠 제작 및 배급문의 : contents@bucketstudio.co.kr</p>
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:113px;"id="Binggrae_font">제휴관련 문의 : alliance@bucketstudio.co.</p>
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:112px;"id="Binggrae_font">기타문의 : webmaster@bucketstudio.co.kr</p>
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:23px;"id="Binggrae_font">Copyright © BUCKET STUDIO Co., Ltd. All Rights Reserved.</p> 
+							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:90px;" id="Binggrae_font">경기도 하남시 초이동 254-5 초이동횡성한우 현풍할매</p>
+							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:249px;" id="Binggrae_font">T:02-429-8818</p>
+							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:27px;"id="Binggrae_font">문의 : 2hansoul@naver.com </p>
+							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:113px;"id="Binggrae_font">대표자명 : 전희주 </p>
+							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:112px;"id="Binggrae_font">사업자등록번호 : 511-19-01350</p>
+							<!--<p class="" style="font-size:12px;margin-bottom:5px;margin-right:23px;"id="Binggrae_font">Copyright © BUCKET STUDIO Co., Ltd. All Rights Reserved.</p>-->
 					</div>
                 </div>
             </div>
