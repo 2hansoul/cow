@@ -1,0 +1,49 @@
+[2022-04-06 08:29:24.693] [remoteagent] [info] Extension host agent started.
+[2022-04-06 08:29:25.001] [remoteagent] [info] [127.0.0.1][d6e3b4b7][ManagementConnection] New connection established.
+[2022-04-06 08:29:25.010] [remoteagent] [info] [127.0.0.1][76f1fefd][ExtensionHostConnection] New connection established.
+[2022-04-06 08:29:25.020] [remoteagent] [info] [127.0.0.1][76f1fefd][ExtensionHostConnection] <11480> Launched Extension Host Process.
+[2022-04-06 08:37:56.463] [remoteagent] [info] [127.0.0.1][619e98dd][ManagementConnection] New connection established.
+[2022-04-06 08:37:56.540] [remoteagent] [info] [127.0.0.1][e3ff0b11][ExtensionHostConnection] New connection established.
+[2022-04-06 08:37:56.548] [remoteagent] [info] [127.0.0.1][e3ff0b11][ExtensionHostConnection] <12118> Launched Extension Host Process.
+[2022-04-06 08:38:06.814] [remoteagent] [info] [127.0.0.1][619e98dd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-06 08:38:06.829] [remoteagent] [info] [127.0.0.1][e3ff0b11][ExtensionHostConnection] <12118> Extension Host Process exited with code: 0, signal: null.
+[2022-04-06 08:38:11.810] [remoteagent] [info] [127.0.0.1][0934fecf][ManagementConnection] New connection established.
+[2022-04-06 08:38:11.889] [remoteagent] [info] [127.0.0.1][a2d241d0][ExtensionHostConnection] New connection established.
+[2022-04-06 08:38:11.895] [remoteagent] [info] [127.0.0.1][a2d241d0][ExtensionHostConnection] <12249> Launched Extension Host Process.
+[2022-04-06 08:38:14.116] [remoteagent] [error] ["Error: Could not find pty on pty host","    at C._throwIfNoPty (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:20:5336)","    at C.updateTitle (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:20:1676)","    at Object.call (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:13:8332)","    at E.onPromise (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:12:4867)","    at E.onRawMessage (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:12:4262)","    at /home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:12:3554","    at L.invoke (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:8:145)","    at l.fire (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:8:1856)","    at process.U (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:6:34661)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-04-06 08:38:23.944] [remoteagent] [info] [127.0.0.1][0934fecf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-06 08:38:23.960] [remoteagent] [info] [127.0.0.1][a2d241d0][ExtensionHostConnection] <12249> Extension Host Process exited with code: 0, signal: null.
+[2022-04-06 08:38:30.223] [remoteagent] [info] [127.0.0.1][70701346][ManagementConnection] New connection established.
+[2022-04-06 08:38:30.320] [remoteagent] [info] [127.0.0.1][9e5b606b][ExtensionHostConnection] New connection established.
+[2022-04-06 08:38:30.332] [remoteagent] [info] [127.0.0.1][9e5b606b][ExtensionHostConnection] <12378> Launched Extension Host Process.
+[2022-04-06 08:38:53.129] [remoteagent] [info] [127.0.0.1][70701346][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-06 08:38:53.142] [remoteagent] [info] [127.0.0.1][9e5b606b][ExtensionHostConnection] <12378> Extension Host Process exited with code: 0, signal: null.
+[2022-04-06 08:38:57.036] [remoteagent] [info] [127.0.0.1][22931348][ManagementConnection] New connection established.
+[2022-04-06 08:38:57.132] [remoteagent] [info] [127.0.0.1][4c2157d9][ExtensionHostConnection] New connection established.
+[2022-04-06 08:38:57.144] [remoteagent] [info] [127.0.0.1][4c2157d9][ExtensionHostConnection] <12564> Launched Extension Host Process.
+[2022-04-06 08:39:13.583] [remoteagent] [info] [127.0.0.1][22931348][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-06 08:39:14.630] [remoteagent] [info] [127.0.0.1][4c2157d9][ExtensionHostConnection] <12564> Extension Host Process exited with code: 0, signal: null.
+[2022-04-06 08:41:18.504] [remoteagent] [info] [127.0.0.1][fc813560][ManagementConnection] New connection established.
+[2022-04-06 08:41:18.601] [remoteagent] [info] [127.0.0.1][880bd3b0][ExtensionHostConnection] New connection established.
+[2022-04-06 08:41:18.614] [remoteagent] [info] [127.0.0.1][880bd3b0][ExtensionHostConnection] <12819> Launched Extension Host Process.
+[2022-04-06 08:41:18.957] [remoteagent] [info] [127.0.0.1][fc813560][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-06 08:41:30.923] [remoteagent] [info] [127.0.0.1][d6e3b4b7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-06 08:41:30.949] [remoteagent] [info] [127.0.0.1][76f1fefd][ExtensionHostConnection] <11480> Extension Host Process exited with code: 0, signal: null.
+[2022-04-06 08:41:32.757] [remoteagent] [info] [127.0.0.1][b29666bb][ManagementConnection] New connection established.
+[2022-04-06 08:41:32.894] [remoteagent] [info] [127.0.0.1][be52102b][ExtensionHostConnection] New connection established.
+[2022-04-06 08:41:32.902] [remoteagent] [info] [127.0.0.1][be52102b][ExtensionHostConnection] <12906> Launched Extension Host Process.
+[2022-04-06 08:41:35.218] [remoteagent] [error] ["Error: Could not find pty on pty host","    at C._throwIfNoPty (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:20:5336)","    at C.updateTitle (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:20:1676)","    at Object.call (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:13:8332)","    at E.onPromise (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:12:4867)","    at E.onRawMessage (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:12:4262)","    at /home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:12:3554","    at L.invoke (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:8:145)","    at l.fire (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:8:1856)","    at process.U (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:6:34661)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-04-06 08:46:32.954] [remoteagent] [info] [127.0.0.1][880bd3b0][ExtensionHostConnection] <12819> Extension Host Process exited with code: 0, signal: null.
+[2022-04-06 08:58:46.390] [remoteagent] [info] [127.0.0.1][b29666bb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-06 08:58:46.416] [remoteagent] [info] [127.0.0.1][be52102b][ExtensionHostConnection] <12906> Extension Host Process exited with code: 0, signal: null.
+[2022-04-06 08:58:46.416] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-04-06 08:58:50.185] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-04-06 08:58:50.185] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-04-06 08:58:50.391] [remoteagent] [info] [127.0.0.1][1b7eff1c][ManagementConnection] New connection established.
+[2022-04-06 08:58:50.492] [remoteagent] [info] [127.0.0.1][450d4378][ExtensionHostConnection] New connection established.
+[2022-04-06 08:58:50.505] [remoteagent] [info] [127.0.0.1][450d4378][ExtensionHostConnection] <13968> Launched Extension Host Process.
+[2022-04-06 08:59:04.040] [remoteagent] [info] [127.0.0.1][1b7eff1c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-06 08:59:05.120] [remoteagent] [info] [127.0.0.1][450d4378][ExtensionHostConnection] <13968> Extension Host Process exited with code: 0, signal: null.
+[2022-04-06 08:59:05.120] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-04-06 08:59:05.120] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-04-06 09:04:05.122] [remoteagent] [info] Last EH closed, shutting down

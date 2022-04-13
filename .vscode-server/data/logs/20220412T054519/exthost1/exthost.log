@@ -1,0 +1,13 @@
+[2022-04-12 05:45:20.906] [exthost] [info] Extension host with pid 20975 started
+[2022-04-12 05:45:21.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-12 05:45:21.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-04-12 05:45:21.123] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-12 05:45:21.155] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: true, activationEvent: '*'
+[2022-04-12 05:45:21.482] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: true, activationEvent: '*'
+[2022-04-12 05:45:21.598] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-04-12 05:45:21.712] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-12 05:45:21.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-12 05:45:21.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-12 05:45:21.835] [exthost] [info] Eager extensions activated
+[2022-04-12 05:48:24.205] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-12 05:48:24.213] [exthost] [info] Extension host with pid 20975 exiting with code 0

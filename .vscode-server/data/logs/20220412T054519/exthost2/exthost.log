@@ -1,0 +1,42 @@
+[2022-04-12 05:48:29.663] [exthost] [info] Extension host with pid 21250 started
+[2022-04-12 05:48:29.678] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/81937451ef65866cd263522c20be8b9d/vscode.lock': Lock acquired.
+[2022-04-12 05:48:29.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-12 05:48:30.005] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-12 05:48:30.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-12 05:48:30.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-04-12 05:48:30.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-12 05:48:30.180] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: true, activationEvent: '*'
+[2022-04-12 05:48:30.381] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: true, activationEvent: '*'
+[2022-04-12 05:48:30.478] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-04-12 05:48:30.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-12 05:48:31.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-12 05:48:31.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-12 05:48:31.066] [exthost] [info] Eager extensions activated
+[2022-04-12 08:46:24.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-04-12 09:10:34.868] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-12 09:10:34.868] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/81937451ef65866cd263522c20be8b9d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-12 09:10:34.877] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+[2022-04-12 09:10:34.877] [exthost] [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at Le (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:90:7020)
+	at Object.dispose (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:76:117996)
+	at g (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:8:12329)
+	at u._deactivate (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:90:11919)
+	at /home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:90:10231
+	at Array.map (<anonymous>)
+	at u.deactivateAll (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:90:10218)
+	at E.terminate (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+	at d (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:104:36250)
+	at /home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:104:34212
+	at u.invoke (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at d.fire (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:66:19034)
+	at o._receiveMessage (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:66:23615)
+	at /home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:66:21149
+	at u.invoke (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at v.acceptChunk (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:66:15865)
+	at /home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:66:14995
+	at u.invoke (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at l._processReadQueue (/home/hansol-test/.vscode-server/bin/8dfae7a5cd50421d10cd99cb873990460525a898/out/vs/workbench/api/node/extensionHostProcess.js:104:21279)
+[2022-04-12 09:10:34.889] [exthost] [info] Extension host with pid 21250 exiting with code 0

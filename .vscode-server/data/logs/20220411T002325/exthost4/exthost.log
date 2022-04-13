@@ -1,0 +1,14 @@
+[2022-04-11 07:03:11.160] [exthost] [info] Extension host with pid 24253 started
+[2022-04-11 07:03:11.167] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/7b63c82613eada2b3272625fb836e07f/vscode.lock': Lock acquired.
+[2022-04-11 07:03:11.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-11 07:03:11.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-04-11 07:03:11.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-11 07:03:11.313] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: true, activationEvent: '*'
+[2022-04-11 07:03:11.536] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: true, activationEvent: '*'
+[2022-04-11 07:03:11.816] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-11 07:03:12.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-11 07:03:12.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-11 07:03:12.124] [exthost] [info] Eager extensions activated
+[2022-04-11 07:03:26.474] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-11 07:03:26.475] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/7b63c82613eada2b3272625fb836e07f/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-11 07:03:26.480] [exthost] [info] Extension host with pid 24253 exiting with code 0

@@ -1,0 +1,19 @@
+{
+    "php.validate.executablePath": "C:\\Bitnami\\wampstack-8.1.2-0\\php",
+    "remote.SSH.remotePlatform": {
+        "": "",
+        "34.64.32.136": "linux",
+        "34.64.86.129": "linux",
+        "google": "linux"
+    },
+    "git.ignoreLegacyWarning": true,
+    "workbench.startupEditor": "none",
+    "git.enableSmartCommit": true,
+    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 15,
+    "git.confirmSync": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "gitlens.advanced.messages": {
+        "suppressGitVersionWarning": true
+    }
+}

@@ -1,0 +1,17 @@
+[2022-04-07 05:15:14.831] [exthost] [info] Extension host with pid 21594 started
+[2022-04-07 05:15:14.837] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/81937451ef65866cd263522c20be8b9d/vscode.lock': Lock acquired.
+[2022-04-07 05:15:15.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-04-07 05:15:15.154] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-07 05:15:15.160] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-04-07 05:15:15.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-07 05:15:15.254] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: true, activationEvent: '*'
+[2022-04-07 05:15:15.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-07 05:15:15.756] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-07 05:15:15.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-07 05:15:15.812] [exthost] [info] Eager extensions activated
+[2022-04-07 05:15:23.331] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-07 05:15:23.339] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-07 05:15:23.423] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-07 05:16:12.195] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-07 05:16:12.195] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/81937451ef65866cd263522c20be8b9d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-07 05:16:12.208] [exthost] [info] Extension host with pid 21594 exiting with code 0

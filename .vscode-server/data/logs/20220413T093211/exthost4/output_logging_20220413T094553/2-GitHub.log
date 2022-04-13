@@ -1,0 +1,15 @@
+Visual Studio Code GitHub Extension
+git symbolic-ref -q HEAD
+git --version
+Failed to connect to provider "Command failed with ENOENT: git symbolic-ref -q HEAD\nspawn git ENOENT"
+git rev-parse --abbrev-ref HEAD
+git symbolic-ref -q HEAD
+Failed to connect to provider "Command failed with ENOENT: git symbolic-ref -q HEAD\nspawn git ENOENT"
+git rev-parse --abbrev-ref HEAD
+Command failed with ENOENT: git rev-parse --abbrev-ref HEAD
+spawn git ENOENT
+Error: Command failed with ENOENT: git rev-parse --abbrev-ref HEAD
+spawn git ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:282:19)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)

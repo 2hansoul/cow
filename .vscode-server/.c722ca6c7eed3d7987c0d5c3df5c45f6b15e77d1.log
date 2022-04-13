@@ -1,0 +1,73 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:41707 (IPv4)
+Extension host agent listening on 41707
+
+[04:02:20] Extension host agent started.
+[04:02:20] [127.0.0.1][ef397ee1][ExtensionHostConnection] New connection established.
+[04:02:20] [127.0.0.1][ef397ee1][ExtensionHostConnection] <32300> Launched Extension Host Process.
+[04:02:20] [127.0.0.1][e8c4a965][ManagementConnection] New connection established.
+[04:14:11] [127.0.0.1][e8c4a965][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:14:11] [127.0.0.1][ef397ee1][ExtensionHostConnection] <32300> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[04:14:11] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[04:14:33] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[04:14:33] Cancelling previous shutdown timeout
+[04:14:34] [127.0.0.1][1a2b8261][ManagementConnection] New connection established.
+[04:14:34] [127.0.0.1][00c9f0d4][ExtensionHostConnection] New connection established.
+[04:14:34] [127.0.0.1][00c9f0d4][ExtensionHostConnection] <32572> Launched Extension Host Process.
+[04:15:35] [127.0.0.1][1a2b8261][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:15:35] [127.0.0.1][00c9f0d4][ExtensionHostConnection] <32572> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[04:15:35] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[04:15:35] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[04:15:36] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[04:15:36] Cancelling previous shutdown timeout
+[04:15:37] [127.0.0.1][b695f6a1][ManagementConnection] New connection established.
+[04:15:37] [127.0.0.1][c95b5901][ExtensionHostConnection] New connection established.
+[04:15:37] [127.0.0.1][c95b5901][ExtensionHostConnection] <32758> Launched Extension Host Process.
+[04:16:34] [127.0.0.1][b695f6a1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:16:34] [127.0.0.1][c95b5901][ExtensionHostConnection] <32758> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[04:16:34] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[04:16:34] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[04:17:07] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[04:17:07] Cancelling previous shutdown timeout
+[04:17:08] [127.0.0.1][c52c8966][ManagementConnection] New connection established.
+[04:17:08] [127.0.0.1][b6e92980][ExtensionHostConnection] New connection established.
+[04:17:08] [127.0.0.1][b6e92980][ExtensionHostConnection] <599> Launched Extension Host Process.
+[04:17:20] [127.0.0.1][c52c8966][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/hansol-test/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+New EH opened, aborting shutdown
+[04:22:07] New EH opened, aborting shutdown
+[04:23:28] Detected extension installed from another source humy2833.ftp-simple
+[04:23:40] Detected extension installed from another source github.vscode-pull-request-github
+[04:24:31] Detected extension installed from another source alefragnani.project-manager
+[04:24:31] Detected extension installed from another source donjayamanne.githistory
+[04:24:31] Detected extension installed from another source ziyasal.vscode-open-in-github
+[04:24:32] Detected extension installed from another source eamodio.gitlens
+[04:24:33] Detected extension installed from another source codezombiech.gitignore
+[04:24:33] Detected extension installed from another source donjayamanne.git-extension-pack
+[04:37:45] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /var/www/html/cow)
+[04:37:45] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[07:17:27] [127.0.0.1][b6e92980][ExtensionHostConnection] <599> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[07:17:27] Last EH closed, waiting before shutting down
+[07:17:31] [127.0.0.1][c52c8966][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+Last EH closed, shutting down
+[07:22:27] Last EH closed, shutting down

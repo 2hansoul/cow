@@ -1,0 +1,31 @@
+[2022-04-07 06:13:47.220] [remoteagent] [info] Extension host agent started.
+[2022-04-07 06:13:47.536] [remoteagent] [info] [127.0.0.1][5f38be8c][ManagementConnection] New connection established.
+[2022-04-07 06:13:47.538] [remoteagent] [info] [127.0.0.1][92add290][ExtensionHostConnection] New connection established.
+[2022-04-07 06:13:47.552] [remoteagent] [info] [127.0.0.1][92add290][ExtensionHostConnection] <2376> Launched Extension Host Process.
+[2022-04-07 06:13:54.314] [remoteagent] [info] Getting Manifest... donjayamanne.githistory
+[2022-04-07 06:13:54.538] [remoteagent] [info] Installing extension: donjayamanne.githistory
+[2022-04-07 06:13:54.647] [remoteagent] [info] Downloaded extension: donjayamanne.githistory /home/hansol-test/.vscode-server/data/CachedExtensionVSIXs/donjayamanne.githistory-0.6.19
+[2022-04-07 06:13:54.749] [remoteagent] [info] Extracted extension to /home/hansol-test/.vscode-server/extensions/.99846cf2-7ad5-487c-a3c1-c37f9bd36dab: donjayamanne.githistory
+[2022-04-07 06:13:54.756] [remoteagent] [info] Renamed to /home/hansol-test/.vscode-server/extensions/donjayamanne.githistory-0.6.19
+[2022-04-07 06:13:54.757] [remoteagent] [info] Extracting completed. donjayamanne.githistory
+[2022-04-07 06:13:54.758] [remoteagent] [info] Extension installed successfully: donjayamanne.githistory
+[2022-04-07 06:13:59.693] [remoteagent] [info] Getting Manifest... humy2833.ftp-simple
+[2022-04-07 06:13:59.886] [remoteagent] [info] Installing extension: humy2833.ftp-simple
+[2022-04-07 06:13:59.999] [remoteagent] [info] Downloaded extension: humy2833.ftp-simple /home/hansol-test/.vscode-server/data/CachedExtensionVSIXs/humy2833.ftp-simple-0.7.6
+[2022-04-07 06:14:00.984] [remoteagent] [info] Extracted extension to /home/hansol-test/.vscode-server/extensions/.4308d0cb-e48b-4eb3-b77d-041685950455: humy2833.ftp-simple
+[2022-04-07 06:14:00.993] [remoteagent] [info] Renamed to /home/hansol-test/.vscode-server/extensions/humy2833.ftp-simple-0.7.6
+[2022-04-07 06:14:00.995] [remoteagent] [info] Extracting completed. humy2833.ftp-simple
+[2022-04-07 06:14:00.995] [remoteagent] [info] Extension installed successfully: humy2833.ftp-simple
+[2022-04-07 06:14:06.624] [remoteagent] [info] [127.0.0.1][5f38be8c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-07 06:14:07.424] [remoteagent] [info] [127.0.0.1][92add290][ExtensionHostConnection] <2376> Extension Host Process exited with code: 0, signal: null.
+[2022-04-07 06:14:07.425] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-04-07 06:14:10.874] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-04-07 06:14:10.874] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-04-07 06:14:11.077] [remoteagent] [info] [127.0.0.1][a5f1cd32][ManagementConnection] New connection established.
+[2022-04-07 06:14:11.163] [remoteagent] [info] [127.0.0.1][4808bbed][ExtensionHostConnection] New connection established.
+[2022-04-07 06:14:11.172] [remoteagent] [info] [127.0.0.1][4808bbed][ExtensionHostConnection] <2567> Launched Extension Host Process.
+[2022-04-07 06:18:16.950] [remoteagent] [info] [127.0.0.1][a5f1cd32][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-07 06:18:16.982] [remoteagent] [info] [127.0.0.1][4808bbed][ExtensionHostConnection] <2567> Extension Host Process exited with code: 0, signal: null.
+[2022-04-07 06:18:16.983] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-04-07 06:18:16.983] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-04-07 06:23:16.983] [remoteagent] [info] Last EH closed, shutting down

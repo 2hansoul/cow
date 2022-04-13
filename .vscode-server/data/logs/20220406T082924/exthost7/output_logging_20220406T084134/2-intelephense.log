@@ -1,0 +1,7 @@
+[Info  - 8:41:35 AM] Initialising intelephense 1.8.2
+[Info  - 8:41:35 AM] Reading state from /home/hansol-test/.vscode-server/data/User/workspaceStorage/608f37100fb96a2e412597041ec7b011/bmewburn.vscode-intelephense-client/22d745c1.
+[Info  - 8:41:36 AM] Initialised in 635 ms
+[Info  - 8:41:36 AM] Searching file:///home/hansol-test/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.8.2/node_modules/intelephense/lib/stub for files to index.
+[Info  - 8:41:36 AM] Searching file:///var/www/html/cow for files to index.
+[Info  - 8:44:28 AM] Indexing started.
+[Info  - 8:44:28 AM] Indexing ended. 1 files indexed in 0s.

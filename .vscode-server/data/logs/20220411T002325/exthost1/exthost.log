@@ -1,0 +1,43 @@
+[2022-04-11 00:23:27.020] [exthost] [info] Extension host with pid 2580 started
+[2022-04-11 00:23:27.030] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/b03eab0ccadea0547548b2da4fbd8d48/vscode.lock': Lock acquired.
+[2022-04-11 00:23:27.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-11 00:23:27.199] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-11 00:23:27.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-11 00:23:27.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-04-11 00:23:27.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-11 00:23:27.345] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: true, activationEvent: '*'
+[2022-04-11 00:23:27.629] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: true, activationEvent: '*'
+[2022-04-11 00:23:27.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-11 00:23:28.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-11 00:23:28.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-11 00:23:28.288] [exthost] [info] Eager extensions activated
+[2022-04-11 00:23:30.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-11 00:23:30.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-11 00:23:30.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-11 07:01:52.901] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-11 07:01:52.904] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/b03eab0ccadea0547548b2da4fbd8d48/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-11 07:01:52.928] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+[2022-04-11 07:01:52.935] [exthost] [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at Le (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:90:7020)
+	at Object.dispose (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:76:117996)
+	at g (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:8:12329)
+	at u._deactivate (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:90:11919)
+	at /home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:90:10231
+	at Array.map (<anonymous>)
+	at u.deactivateAll (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:90:10218)
+	at E.terminate (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+	at d (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:104:36250)
+	at /home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:104:34212
+	at u.invoke (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at d.fire (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:66:19034)
+	at o._receiveMessage (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:66:23615)
+	at /home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:66:21149
+	at u.invoke (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at v.acceptChunk (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:66:15865)
+	at /home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:66:14995
+	at u.invoke (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at l._processReadQueue (/home/hansol-test/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/workbench/api/node/extensionHostProcess.js:104:21279)
+[2022-04-11 07:01:52.948] [exthost] [info] Extension host with pid 2580 exiting with code 0

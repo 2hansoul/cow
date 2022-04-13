@@ -1,0 +1,18 @@
+[2022-04-12 01:31:08.265] [exthost] [info] Extension host with pid 7342 started
+[2022-04-12 01:31:08.271] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/d5ea4c8b9600ef7198dbe6b76edc30e9/vscode.lock': Lock acquired.
+[2022-04-12 01:31:08.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-12 01:31:08.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-04-12 01:31:08.408] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-12 01:31:08.425] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: true, activationEvent: '*'
+[2022-04-12 01:31:08.708] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: true, activationEvent: '*'
+[2022-04-12 01:31:08.805] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-04-12 01:31:08.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-12 01:31:09.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-12 01:31:09.203] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-12 01:31:09.208] [exthost] [info] Eager extensions activated
+[2022-04-12 01:31:10.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-12 01:31:10.418] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-12 01:31:10.487] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-12 01:31:45.416] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-12 01:31:45.417] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/d5ea4c8b9600ef7198dbe6b76edc30e9/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-12 01:31:45.427] [exthost] [info] Extension host with pid 7342 exiting with code 0

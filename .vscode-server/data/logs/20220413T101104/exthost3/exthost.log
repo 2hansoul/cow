@@ -1,0 +1,44 @@
+[2022-04-13 13:33:56.049] [exthost] [info] Extension host with pid 8660 started
+[2022-04-13 13:33:56.055] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/81937451ef65866cd263522c20be8b9d/vscode.lock': Lock acquired.
+[2022-04-13 13:33:56.257] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-13 13:33:56.278] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+[2022-04-13 13:33:56.332] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-13 13:33:56.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-04-13 13:33:56.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-13 13:33:56.357] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: true, activationEvent: '*'
+[2022-04-13 13:33:56.525] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: true, activationEvent: '*'
+[2022-04-13 13:33:56.691] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-04-13 13:33:56.937] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-13 13:33:57.255] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-13 13:33:57.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-13 13:33:57.294] [exthost] [info] Eager extensions activated
+[2022-04-13 13:33:58.816] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-13 13:33:58.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-13 13:33:58.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-13 13:34:59.358] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-13 13:34:59.359] [exthost] [info] Lock '/home/hansol-test/.vscode-server/data/User/workspaceStorage/81937451ef65866cd263522c20be8b9d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-13 13:34:59.369] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+[2022-04-13 13:34:59.372] [exthost] [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at Le (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:90:7020)
+	at Object.dispose (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:76:117996)
+	at g (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:8:12329)
+	at u._deactivate (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:90:11919)
+	at /home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:90:10231
+	at Array.map (<anonymous>)
+	at u.deactivateAll (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:90:10218)
+	at E.terminate (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+	at d (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:104:36250)
+	at /home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:104:34212
+	at u.invoke (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at d.fire (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:66:19034)
+	at o._receiveMessage (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:66:23615)
+	at /home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:66:21149
+	at u.invoke (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at v.acceptChunk (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:66:15865)
+	at /home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:66:14995
+	at u.invoke (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at l._processReadQueue (/home/hansol-test/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:104:21279)
+[2022-04-13 13:34:59.380] [exthost] [info] Extension host with pid 8660 exiting with code 0

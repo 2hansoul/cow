@@ -1,0 +1,6 @@
+[2022-04-12 05:48:30.621] Starting Git Graph ...
+[2022-04-12 05:48:30.763] ERROR: Unable to find a Git executable. Either: Set the Visual Studio Code Setting "git.path" to the path and filename of an existing Git executable, or install Git and restart Visual Studio Code.
+[2022-04-12 05:48:30.779] Started Git Graph - Ready to use!
+[2022-04-12 05:48:30.780] Searching workspace for new repos ...
+[2022-04-12 05:48:30.782] Completed searching workspace for new repos
+[2022-04-12 05:48:31.069] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"

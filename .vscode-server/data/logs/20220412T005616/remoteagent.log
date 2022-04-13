@@ -1,0 +1,40 @@
+[2022-04-12 00:56:17.055] [remoteagent] [info] Extension host agent started.
+[2022-04-12 00:56:17.338] [remoteagent] [info] [127.0.0.1][f4111b1a][ManagementConnection] New connection established.
+[2022-04-12 00:56:17.366] [remoteagent] [info] [127.0.0.1][82010d40][ExtensionHostConnection] New connection established.
+[2022-04-12 00:56:17.500] [remoteagent] [info] [127.0.0.1][82010d40][ExtensionHostConnection] <5073> Launched Extension Host Process.
+[2022-04-12 00:56:20.334] [remoteagent] [info] Getting Manifest... xdebug.php-debug
+[2022-04-12 00:56:20.547] [remoteagent] [info] Installing extension: xdebug.php-debug
+[2022-04-12 00:56:21.235] [remoteagent] [info] Downloaded extension: xdebug.php-debug /home/hansol-test/.vscode-server/data/CachedExtensionVSIXs/xdebug.php-debug-1.26.0
+[2022-04-12 00:56:22.485] [remoteagent] [info] Extracted extension to /home/hansol-test/.vscode-server/extensions/.c08b0403-aab0-4f38-ba99-9f5c60889454: xdebug.php-debug
+[2022-04-12 00:56:22.496] [remoteagent] [info] Renamed to /home/hansol-test/.vscode-server/extensions/xdebug.php-debug-1.26.0
+[2022-04-12 00:56:22.497] [remoteagent] [info] Extracting completed. xdebug.php-debug
+[2022-04-12 00:56:22.501] [remoteagent] [info] Extension installed successfully: xdebug.php-debug
+[2022-04-12 01:24:09.914] [remoteagent] [info] Getting Manifest... mhutchie.git-graph
+[2022-04-12 01:24:10.105] [remoteagent] [info] Installing extension: mhutchie.git-graph
+[2022-04-12 01:24:10.841] [remoteagent] [info] Downloaded extension: mhutchie.git-graph /home/hansol-test/.vscode-server/data/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0
+[2022-04-12 01:24:10.943] [remoteagent] [info] Extracted extension to /home/hansol-test/.vscode-server/extensions/.e8c4e3a1-0575-4db1-a273-8cde0f89dcf9: mhutchie.git-graph
+[2022-04-12 01:24:10.958] [remoteagent] [info] Renamed to /home/hansol-test/.vscode-server/extensions/mhutchie.git-graph-1.30.0
+[2022-04-12 01:24:10.963] [remoteagent] [info] Extracting completed. mhutchie.git-graph
+[2022-04-12 01:24:10.964] [remoteagent] [info] Extension installed successfully: mhutchie.git-graph
+[2022-04-12 01:28:54.574] [remoteagent] [info] [127.0.0.1][f4111b1a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-12 01:28:54.602] [remoteagent] [info] [127.0.0.1][82010d40][ExtensionHostConnection] <5073> Extension Host Process exited with code: 0, signal: null.
+[2022-04-12 01:28:54.602] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-04-12 01:29:06.527] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-04-12 01:29:06.527] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-04-12 01:29:06.781] [remoteagent] [info] [127.0.0.1][8916f0c1][ManagementConnection] New connection established.
+[2022-04-12 01:29:06.860] [remoteagent] [info] [127.0.0.1][1b397142][ExtensionHostConnection] New connection established.
+[2022-04-12 01:29:06.869] [remoteagent] [info] [127.0.0.1][1b397142][ExtensionHostConnection] <7094> Launched Extension Host Process.
+[2022-04-12 01:30:26.985] [remoteagent] [info] [127.0.0.1][8916f0c1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-12 01:30:27.028] [remoteagent] [info] [127.0.0.1][1b397142][ExtensionHostConnection] <7094> Extension Host Process exited with code: 0, signal: null.
+[2022-04-12 01:30:27.028] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-04-12 01:30:27.028] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-04-12 01:31:06.416] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-04-12 01:31:06.416] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-04-12 01:31:06.647] [remoteagent] [info] [127.0.0.1][10e8c1dc][ManagementConnection] New connection established.
+[2022-04-12 01:31:06.719] [remoteagent] [info] [127.0.0.1][e1061d03][ExtensionHostConnection] New connection established.
+[2022-04-12 01:31:06.727] [remoteagent] [info] [127.0.0.1][e1061d03][ExtensionHostConnection] <7342> Launched Extension Host Process.
+[2022-04-12 01:31:45.414] [remoteagent] [info] [127.0.0.1][10e8c1dc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-12 01:31:45.437] [remoteagent] [info] [127.0.0.1][e1061d03][ExtensionHostConnection] <7342> Extension Host Process exited with code: 0, signal: null.
+[2022-04-12 01:31:45.437] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-04-12 01:31:45.437] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-04-12 01:36:45.438] [remoteagent] [info] Last EH closed, shutting down
