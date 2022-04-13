@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>천호동횡성한우집(현풍할매)</title>
+        <title>천호동횡성한우집(현풍할매집)</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="../cow/img/assets/LHS.png" />
         <!-- Font Awesome icons (free version)-->
