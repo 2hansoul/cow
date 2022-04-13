@@ -6,7 +6,7 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
     <HEAD>
-        <title>천호동횡성한우집(현풍)</title>
+        <title>초이동 횡성한우 (현풍할매)</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="../cow/img/assets/LHS.png" />
         <!-- Font Awesome icons (free version)-->
@@ -40,9 +40,9 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">Welcome To</div>
+                <!--<div class="masthead-subheading">Welcome To</div>-->
                 <div class="masthead-heading text-uppercase"></div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
+                <a class="btn btn-primary btn-xl text-uppercase" href="#services">MORE</a>
             </div>
         </header>
         <!-- Services-->
