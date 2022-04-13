@@ -23,7 +23,7 @@
 }
 .a:hover img {
   transform: scale(1.4);
-}aaaaaaaaaaaaaa
+}
     </style>
   </head>
   <body>
