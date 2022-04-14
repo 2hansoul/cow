@@ -41,7 +41,7 @@
         <header class="masthead">
             <div class="container">
                 <!--<div class="masthead-subheading">Welcome To</div>-->
-                <div class="masthead-heading text-uppercase">welcome</div>
+                <div class="masthead-heading text-uppercase">wellcome</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">MORE</a>
             </div>
          
@@ -50,7 +50,7 @@
         <section class="page-section" id="services">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">소개</h2>
+                    <!--<h2 class="section-heading text-uppercase">소개</h2>-->
                     <!--<h3 class="section-subheading text-muted" id="Binggrae_font">text</h3>-->
                 </div>
                 <div class="row text-center">
@@ -83,8 +83,8 @@
         <section class="" id="portfolio">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">메뉴 소개</h2>
-                    <h3 class="section-subheading text-muted">&nbsp</h3>
+                    <!--<h2 class="section-heading text-uppercase">메뉴 소개</h2>
+                    <h3 class="section-subheading text-muted">&nbsp</h3>-->
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">

@@ -11443,13 +11443,10 @@ body .backgroundTransition .image-top {
 header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 9rem;
-  text-align: center;
+  text-align: left;
   color: #fff;
-  background-image: url("../img/assets/img/portfolio/1.jpg");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
+  background-image: url("../img/assets/img/portfolio/test.jpg");
+ 
 }
 
 
