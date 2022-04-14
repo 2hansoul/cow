@@ -30,7 +30,7 @@
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#services">소개</a></li>
                         <li class="nav-item"><a class="nav-link" href="#portfolio">메뉴</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#about"></a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">fa</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">IR</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">오시는길</a></li>
                     </ul>
@@ -41,16 +41,17 @@
         <header class="masthead">
             <div class="container">
                 <!--<div class="masthead-subheading">Welcome To</div>-->
-                <div class="masthead-heading text-uppercase"></div>
+                <div class="masthead-heading text-uppercase">welcome</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">MORE</a>
             </div>
+         
         </header>
         <!-- Services-->
         <section class="page-section" id="services">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">소개</h2>
-                    <h3 class="section-subheading text-muted" id="Binggrae_font">text</h3>
+                    <!--<h3 class="section-subheading text-muted" id="Binggrae_font">text</h3>-->
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4 a">
@@ -58,7 +59,7 @@
                           <img src="../cow/img/assets/img/portfolio/poto1.png" style="width: 78%">
                       </span>
                         <h4 class="my-3" id="Binggrae_font">넓은 매장</h4>
-                        <p class="text-muted"  >1~3층 150평 가량에 넓은 매장과 단체손님을 위한 단체석도 마련되어있습니다 </p>
+                        <p class="text-muted">1~3층 150평 가량에 넓은 매장과 단체손님을 위한 단체석도 마련되어있습니다 </p>
                     </div>
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
@@ -323,7 +324,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">오시는길</h2>
-                    <h3 class="section-subheading text-muted">text</h3>
+                    <h3 class="section-subheading text-muted">초이동횡성한우(현풍할매)</h3>
                 </div>
                 <!-- * * * * * * * * * * * * * * *-->
                 <!-- * * SB Forms Contact Form * *-->
@@ -359,19 +360,21 @@
         <!-- Footer-->
         <footer class="footer py-4">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 my-3 my-lg-0">
-                      <div class="timeline-image"><img class="rounded-circle img-fluid" src="../cow/img/assets/img/bucket-logo.JPG" alt="..." />
-					  </div>
-                    </div>
-                    <div class="col-lg-4 ">
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:90px;" id="Binggrae_font">경기도 하남시 초이동 254-5 초이동횡성한우 현풍할매</p>
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:249px;" id="Binggrae_font">T:02-429-8818</p>
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:27px;"id="Binggrae_font">문의 : 2hansoul@naver.com </p>
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:113px;"id="Binggrae_font">대표자명 : 전희주 </p>
-							<p class="" style="font-size:12px;margin-bottom:5px;margin-right:112px;"id="Binggrae_font">사업자등록번호 : 511-19-01350</p>
-							<!--<p class="" style="font-size:12px;margin-bottom:5px;margin-right:23px;"id="Binggrae_font">Copyright © BUCKET STUDIO Co., Ltd. All Rights Reserved.</p>-->
+                    <div class=" ">
+							<li class="" style="font-size:12px;margin-bottom:5px;" id="Binggrae_font">주소 : 경기도 하남시 초이동 254-5 초이동횡성한우</li>
+							<li class="" style="font-size:12px;margin-bottom:5px;" id="Binggrae_font">T : 02-429-8818</li>
+							<li class="" style="font-size:12px;margin-bottom:5px;"id="Binggrae_font">문의 : 2hansoul@naver.com </li>
+							<li class="" style="font-size:12px;margin-bottom:5px;"id="Binggrae_font">대표자명 : 전희주 </li>
+							<li class="" style="font-size:12px;margin-bottom:5px;"id="Binggrae_font">사업자등록번호 : 511-19-01350</li>
 					</div>
+
+                    <!--<table>
+                        <td>경기도 하남시 초이동 254-5 초이동횡성한우</td>
+                        <td>T:02-429-8818</td>
+                        <td>문의 : 2hansoul@naver.com</td>
+                        <td>대표자명 : 전희주</td>
+                        <td>사업자등록번호 : 511-19-01350</td>
+                    </table>-->
                 </div>
             </div>
         </footer>
@@ -556,9 +559,9 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">한우 불고기</h2>
+                                    <h3 class="text-lowercase">한우 불고기</h3>
                                    <!--<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>-->
-                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow6.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow4.jpg" alt="..." />
                                     <ul class="list-inline">
                                         <li>
                                             <strong>가격:</strong>
@@ -639,7 +642,7 @@
 <!------------------------------------kakaomap------------------------------------------------------->
 
 <body>
-<div id="map" style="width:100%;height:350px;"></div>
+<div id="map" style="width:100%;height:0px;"></div>
 
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=b842ce4d518f04233b655cc29d8ff6b7"></script>
 <script>
