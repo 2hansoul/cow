@@ -27,11 +27,11 @@
                     <i class="fas fa-bars ms-1"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+                    <ul class="navbar-nav text-lowercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#services">소개</a></li>
                         <li class="nav-item"><a class="nav-link" href="#portfolio">메뉴</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#about">fa</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#team">IR</a></li>
+                       <!-- <li class="nav-item"><a class="nav-link" href="#about">fa</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#team">IR</a></li>-->
                         <li class="nav-item"><a class="nav-link" href="#contact">오시는길</a></li>
                     </ul>
                 </div>
@@ -56,21 +56,21 @@
                 <div class="row text-center">
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
-                          <img src="../cow/img/assets/img/portfolio/poto1.png" style="width: 78%">
+                          <img src="../cow/img/assets/img/portfolio/poto1.png" style="width: 80%">
                       </span>
                         <h4 class="my-3" id="Binggrae_font">넓은 매장</h4>
-                        <p class="text-muted">1~3층 150평 가량에 넓은 매장과 단체손님을 위한 단체석도 마련되어있습니다 </p>
+                        <p class="text-muted" >1~3층 150평 가량에 넓은 매장과 단체손님을 위한 단체석도 마련되어있습니다 </p>
                     </div>
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
-                            <img src="../cow/img/assets/img/portfolio/map.PNG" style="width: 78%">
+                            <img src="../cow/img/assets/img/portfolio/map.PNG" style="width: 80%">
                         </span>
                         <h4 class="my-3" id="Binggrae_font">가까운 서울근교</h4>
                         <p class="text-muted" >경기도 하남시 초이로 254-5 번지에 있으며 근처 에 미사리 조정경기장과 일자산이 있습니다</p>
                     </div>
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
-                            <img src="../cow/img/assets/img/portfolio/parking.png" style="width: 78%">
+                            <img src="../cow/img/assets/img/portfolio/parking.png" style="width:80%">
                         </span>
                         <h4 class="my-3" id="Binggrae_font" >주차시설</h4>
                         <p class="text-muted">넒은 주차시설을 갖추고 있어 주차걱정 없이 편안하게 식사 하실 수 있습니다</p>
@@ -96,8 +96,8 @@
                                 </div>
                                 <img class="img-fluid" src="../cow/img/assets/img/portfolio/cow1.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">한우등심++</div>
+                            <div class="portfolio-caption"> 
+                                <div class="portfolio-caption-heading">한우 등심++</div>
                                 <div class="portfolio-caption-subheading text-muted">400g</div>
                             </div>
                         </div>
@@ -112,7 +112,7 @@
                                 <img class="img-fluid"  src="../cow/img/assets/img/portfolio/cow2.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">한우2등급</div>
+                                <div class="portfolio-caption-heading">한우 2등급</div>
                                 <div class="portfolio-caption-subheading text-muted">400g</div>
                             </div>
                         </div>
@@ -139,11 +139,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../cow/img/assets/img/portfolio/4.jpg" alt="..." />
+                                <img class="img-fluid" src="../cow/img/assets/img/portfolio/cow5.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">한우차돌박이</div>
-                                <div class="portfolio-caption-subheading text-muted">Branding</div>
+                                <div class="portfolio-caption-heading">한우 차돌</div>
+                                <div class="portfolio-caption-subheading text-muted">150g</div>
                             </div>
                         </div>
                     </div>
@@ -154,11 +154,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../cow/img/assets/img/portfolio/5.jpg" alt="..." />
+                                <img class="img-fluid" src="../cow/img/assets/img/portfolio/cow6.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">소갈비</div>
-                                <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                                <div class="portfolio-caption-heading">소양념 갈비</div>
+                                <div class="portfolio-caption-subheading text-muted">500g</div>
                             </div>
                         </div>
                     </div>
@@ -172,8 +172,8 @@
                                 <img class="img-fluid" src="../cow/img/assets/img/portfolio/cow4.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">한우불고기</div>
-                                <div class="portfolio-caption-subheading text-muted">100g</div>
+                                <div class="portfolio-caption-heading">한우 불고기</div>
+                                <div class="portfolio-caption-subheading text-muted">250g</div>
                             </div>
                         </div>
                     </div>
@@ -181,7 +181,7 @@
             </div>
         </section>
         
-        <!-- About-->
+        <!-- About
         <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
@@ -246,7 +246,7 @@
                     </li>
                 </ul>
             </div>
-        </section>
+        </section> -->
         
         <!-- 
         <section class="page-section bg-light" id="team">
@@ -287,12 +287,12 @@
                         </div>
                     </div>
                 </div>
-                Team-->
+                Team
                 <div class="row">
                     <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
                 </div>
             </div>
-        </section>
+        </section>-->
 		<!-- 이거 슬라이드 인데 무한루프 내가 원하는거 아님
 		<script>
 			var slideIndex = 0;
@@ -342,14 +342,7 @@
                     <!---->
                     <!-- This is what your users will see when the form-->
                     <!-- has successfully submitted-->
-                    <div class="d-none" id="submitSuccessMessage">
-                        <div class="text-center text-white mb-3">
-                            <div class="fw-bolder">Form submission successful!</div>
-                            To activate this form, sign up at
-                            <br />
-                            <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
-                        </div>
-                    </div>
+                 
                     <!-- Submit error message-->
                     <!---->
                     <!-- This is what your users will see when there is-->
@@ -360,12 +353,12 @@
         <!-- Footer-->
         <footer class="footer py-4">
             <div class="container">
-                    <div class=" ">
-							<li class="" style="font-size:12px;margin-bottom:5px;" id="Binggrae_font">주소 : 경기도 하남시 초이동 254-5 초이동횡성한우</li>
-							<li class="" style="font-size:12px;margin-bottom:5px;" id="Binggrae_font">T : 02-429-8818</li>
-							<li class="" style="font-size:12px;margin-bottom:5px;"id="Binggrae_font">문의 : 2hansoul@naver.com </li>
-							<li class="" style="font-size:12px;margin-bottom:5px;"id="Binggrae_font">대표자명 : 전희주 </li>
-							<li class="" style="font-size:12px;margin-bottom:5px;"id="Binggrae_font">사업자등록번호 : 511-19-01350</li>
+                    <div class="">
+							<li class="" style="font-size:12px;margin-bottom:5px;list-style:none;" id="Binggrae_font">주소 : 경기도 하남시 초이동 254-5 초이동횡성한우</li>
+							<li class="" style="font-size:12px;margin-bottom:5px;list-style:none;" id="Binggrae_font">T : 02-429-8818</li>
+							<li class="" style="font-size:12px;margin-bottom:5px;list-style:none;"id="Binggrae_font">문의 : 2hansoul@naver.com </li>
+							<li class="" style="font-size:12px;margin-bottom:5px;list-style:none;"id="Binggrae_font">대표자명 : 전희주 </li>
+							<li class="" style="font-size:12px;margin-bottom:5px;list-style:none;"id="Binggrae_font">사업자등록번호 : 511-19-01350</li>
 					</div>
 
                     <!--<table>
@@ -389,7 +382,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">한우등심++</h2>
+                                    <h2 class="text-lowercase">한우등심++</h2>
                                     <!--<p class="item-intro text-muted">2++등급 한우 입니다 마장동에서 주마다 직접 고기를 보고 구매를 하고있습니다 </p>-->
                                     <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow1.jpg" alt="..." />
                                     <ul class="list-inline">
@@ -402,7 +395,7 @@
                                             23,750
                                         </li>
                                     </ul>
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <button class="btn btn-primary btn-xl text-lowercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-times me-1"></i>
                                         Close
                                     </button>
@@ -423,7 +416,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">등심 2등급</h2>
+                                    <h2 class="text-lowercase">등심 2등급</h2>
                                     <!--<p class="item-intro text-muted">입에서 살살 녹는 한우를 드시고 싶으시면 한우등심 </p>-->
                                     <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow2.jpg" alt="..." />
                                     <ul class="list-inline">
@@ -436,7 +429,7 @@
                                             18,750
                                         </li>
                                     </ul>
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <button class="btn btn-primary btn-xl text-lowercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-times me-1"></i>
                                         Close
                                     </button>
@@ -457,7 +450,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">한우갈비살</h2>
+                                    <h2 class="text-lowercase">한우갈비살</h2>
                                     <!--<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>-->
                                     <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow3.jpg" alt="..." />
                                     <ul class="list-inline">
@@ -470,7 +463,7 @@
                                             22,600
                                         </li>
                                     </ul>
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <button class="btn btn-primary btn-xl text-lowercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-times me-1"></i>
                                         Close 
                                     </button>
@@ -491,9 +484,9 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">한우 차돌</h2>
+                                    <h2 class="text-lowercase">한우 차돌</h2>
                                    <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>-->
-                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/4.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow5.jpg" alt="..." />
                                     <ul class="list-inline">
                                         <li>
                                             <strong>가격:</strong>
@@ -504,7 +497,7 @@
                                             18,000
                                         </li>
                                     </ul>
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <button class="btn btn-primary btn-xl text-lowercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-times me-1"></i>
                                         Close
                                     </button>
@@ -525,9 +518,9 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">소 양념갈비</h2>
+                                    <h2 class="text-lowercase">한우 소양념</h2>
                                     <!--<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>-->
-                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/5.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow6.jpg" alt="..." />
                                     <ul class="list-inline">
                                         <li>
                                             <strong>가격:</strong>
@@ -538,7 +531,7 @@
                                             14,000
                                         </li>
                                     </ul>
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <button class="btn btn-primary btn-xl text-lowercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-times me-1"></i>
                                         Close
                                     </button>
@@ -572,7 +565,7 @@
                                             12,000
                                         </li>
                                     </ul>
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <button class="btn btn-primary btn-xl text-lowercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-times me-1"></i>
                                         Close
                                     </button>
