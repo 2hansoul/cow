@@ -56,24 +56,24 @@
                 <div class="row text-center">
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
-                          <img src="../cow/img/assets/img/portfolio/poto1.png" style="width: 80%">
+                          <img src="../cow/img/assets/img/portfolio/poto1.png" style="width: 78%">
                       </span>
                         <h4 class="my-3" id="Binggrae_font">넓은 매장</h4>
-                        <p class="text-muted" >1~3층 150평 가량에 넓은 매장과 단체손님을 위한 단체석도 마련되어있습니다 </p>
+                        <p class="text-muted" >1~3층 150평 가량에 넓은 매장과 <br> 단체손님을 위한 단체석도 마련되어있습니다 </p>
                     </div>
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
-                            <img src="../cow/img/assets/img/portfolio/map.PNG" style="width: 80%">
+                            <img src="../cow/img/assets/img/portfolio/map.PNG" style="width: 78%">
                         </span>
-                        <h4 class="my-3" id="Binggrae_font">가까운 서울근교</h4>
-                        <p class="text-muted" >경기도 하남시 초이로 254-5 번지에 있으며 근처 에 미사리 조정경기장과 일자산이 있습니다</p>
+                        <h4 class="my-3" id="Binggrae_font">서울근교</h4>
+                        <p class="text-muted" ><b>경기도 하남시 초이로 254-5 번지</b>에 있으며 <br>근처 미사리 조정경기장과 일자산이 있습니다</p>
                     </div>
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
-                            <img src="../cow/img/assets/img/portfolio/parking.png" style="width:80%">
+                            <img src="../cow/img/assets/img/portfolio/parking.png" style="width:78%">
                         </span>
                         <h4 class="my-3" id="Binggrae_font" >주차시설</h4>
-                        <p class="text-muted">넒은 주차시설을 갖추고 있어 주차걱정 없이 편안하게 식사 하실 수 있습니다</p>
+                        <p class="text-muted">넒은 주차시설을 갖추고 있어 주차걱정 <br>없이 편안하게 식사 하실 수 있습니다</p>
                     </div>
 
                 </div>
@@ -352,13 +352,15 @@
         </section>
         <!-- Footer-->
         <footer class="footer py-4">
+        
+     
             <div class="container">
                     <div class="">
-							<li class="" style="font-size:12px;margin-bottom:5px;list-style:none;" id="Binggrae_font">주소 : 경기도 하남시 초이동 254-5 초이동횡성한우</li>
-							<li class="" style="font-size:12px;margin-bottom:5px;list-style:none;" id="Binggrae_font">T : 02-429-8818</li>
-							<li class="" style="font-size:12px;margin-bottom:5px;list-style:none;"id="Binggrae_font">문의 : 2hansoul@naver.com </li>
-							<li class="" style="font-size:12px;margin-bottom:5px;list-style:none;"id="Binggrae_font">대표자명 : 전희주 </li>
-							<li class="" style="font-size:12px;margin-bottom:5px;list-style:none;"id="Binggrae_font">사업자등록번호 : 511-19-01350</li>
+							<li class=""  style="font-size:12px;margin-bottom:4px;list-style:none;" id="Binggrae_font"><b>주소</b> : 경기도 하남시 초이동 254-5 초이동횡성한우</li>
+							<li class=""  style="font-size:12px;margin-bottom:4px;list-style:none;padding-right: 180px;"id="Binggrae_font"><b>T</b> : 02-429-8818</li>
+							<li class="" style="font-size:12px;margin-bottom:4px;list-style:none;padding-right: 111px;"id="Binggrae_font"><b>문의</b> : 2hansoul@naver.com </li>
+							<li class="" style="font-size:12px;margin-bottom:4px;list-style:none;padding-right: 180px;" id="Binggrae_font"><b>대표자명</b> : 전희주 </li>
+							<li class="" style="font-size:12px;margin-bottom:4px;list-style:none;padding-right: 111px;"id="Binggrae_font"><b>사업자등록번호</b> : 511-19-01350</li>
 					</div>
 
                     <!--<table>
