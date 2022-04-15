@@ -56,21 +56,21 @@
                 <div class="row text-center">
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
-                          <img src="../cow/img/assets/img/portfolio/poto1.png" style="width: 78%">
+                          <img src="../cow/img/assets/img/portfolio/poto1.png" style="width: 75%">
                       </span>
                         <h4 class="my-3" id="Binggrae_font">넓은 매장</h4>
                         <p class="text-muted" >1~3층 150평 가량에 넓은 매장과 <br> 단체손님을 위한 단체석도 마련되어있습니다 </p>
                     </div>
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
-                            <img src="../cow/img/assets/img/portfolio/map.PNG" style="width: 78%">
+                            <img src="../cow/img/assets/img/portfolio/map.PNG" style="width: 75%">
                         </span>
                         <h4 class="my-3" id="Binggrae_font">서울근교</h4>
                         <p class="text-muted" ><b>경기도 하남시 초이로 254-5 번지</b>에 있으며 <br>근처 미사리 조정경기장과 일자산이 있습니다</p>
                     </div>
                     <div class="col-md-4 a">
                         <span class="fa-stack fa-4x">
-                            <img src="../cow/img/assets/img/portfolio/parking.png" style="width:78%">
+                            <img src="../cow/img/assets/img/portfolio/parking.png" style="width:75%">
                         </span>
                         <h4 class="my-3" id="Binggrae_font" >주차시설</h4>
                         <p class="text-muted">넒은 주차시설을 갖추고 있어 주차걱정 <br>없이 편안하게 식사 하실 수 있습니다</p>
@@ -112,7 +112,7 @@
                                 <img class="img-fluid"  src="../cow/img/assets/img/portfolio/cow2.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">한우 2등급</div>
+                                <div class="portfolio-caption-heading">등심 2등급</div>
                                 <div class="portfolio-caption-subheading text-muted">400g</div>
                             </div>
                         </div>
@@ -452,7 +452,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-lowercase">한우갈비살</h2>
+                                    <h2 class="text-lowercase">한우 갈비살</h2>
                                     <!--<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>-->
                                     <img class="img-fluid d-block mx-auto" src="../cow/img/assets/img/portfolio/cow3.jpg" alt="..." />
                                     <ul class="list-inline">

@@ -11475,7 +11475,7 @@ header.masthead .masthead-heading {
 /* -----------  */
 @media (min-width: 360px) {
   header.masthead {
-    padding-top: 22rem;
+    padding-top: 31rem;
     padding-bottom: 12.5rem;
   }
   header.masthead .masthead-subheading {
@@ -11835,13 +11835,11 @@ h1 {
 img {
   max-width: 100%;
 }
-
 .a img {
 transition: all 0.2s linear;
 }
 .a:hover img {
-transform: scale(2.7);
-
+transform: scale(2.5);
 }
 }
 
