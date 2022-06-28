@@ -28,7 +28,11 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-lowercase ms-auto py-4 py-lg-0">
+<<<<<<< HEAD
                         <li class="nav-item"><a class="nav-link" href="#services">소aaaaaaaaaaa개</a></li>
+=======
+                        <li class="nav-item"><a class="nav-link" href="#services">소개</a></li>
+>>>>>>> f26a0f5c3deb5bcb7706d71ec6a425c6750df1b7
                         <li class="nav-item"><a class="nav-link" href="#portfolio">메뉴</a></li>
                        <!-- <li class="nav-item"><a class="nav-link" href="#about">fa</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">IR</a></li>-->
